@@ -548,6 +548,20 @@ img {
   color: #ffffff;
 }
 
+.footer-button-subscribe {
+  min-width: 165px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
+}
+
 /* ###########----MODAL-WINDOW----############ */
 
 .modal-window {

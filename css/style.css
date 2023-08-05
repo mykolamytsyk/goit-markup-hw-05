@@ -646,6 +646,28 @@ img {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+.modal-text {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: var(--grey-cl);
+  margin-bottom: 16px;
+}
+
+.modal-form-section {
+  margin-bottom: 8px;
+}
+.modal-form-label {
+  font-size: 12px;
+  line-height: 1.17;
+  letter-spacing: 0.04em;
+  color: var(--light-slate-cl);
+  display: block;
+  margin-bottom: 4px;
+}
+
 /*####################--PORTFOLIO--####################### */
 
 .container-portfolio {

@@ -515,7 +515,9 @@ img {
   fill: var(--cloud-cl);
 }
 
-/* footer-form-section */
+.footer-form-section {
+  margin-left: 80px;
+}
 
 .footer-title-form {
   margin-bottom: 16px;
@@ -567,6 +569,7 @@ img {
 
 .footer-button-icon {
   margin-left: 16px;
+  fill: var(--cloud-cl);
 }
 
 /* ###########----MODAL-WINDOW----############ */

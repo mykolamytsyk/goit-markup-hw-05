@@ -560,6 +560,12 @@ img {
   letter-spacing: 0.04em;
   color: #ffffff;
   cursor: pointer;
+  background-color: #4d5ae5;
+  border: none;
+  border-radius: 4px;
+}
+.footer-button-icon {
+  margin-left: 16px;
 }
 
 /* ###########----MODAL-WINDOW----############ */

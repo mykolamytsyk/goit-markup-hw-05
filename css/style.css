@@ -756,6 +756,7 @@ focus {
   align-items: center;
   justify-content: center;
   fill: transparent;
+  margin-right: 8px;
 }
 
 .modal-input-check:checked .check-icon + .modal-label-span {
@@ -783,6 +784,7 @@ focus {
   border: none;
   border-radius: 4px;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  margin: 0 auto;
 }
 
 /*####################--PORTFOLIO--####################### */

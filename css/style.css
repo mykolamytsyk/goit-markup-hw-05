@@ -759,7 +759,7 @@ focus {
   margin-right: 8px;
 }
 
-.modal-input-check:checked .check-icon + .modal-label-span {
+.modal-input-check:checked .modal-label-span {
   background-color: var(--ocean-cl);
   border: none;
   fill: var(--cloud-cl);

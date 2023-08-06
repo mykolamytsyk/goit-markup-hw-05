@@ -758,6 +758,12 @@ focus {
   fill: transparent;
 }
 
+.modal-input-check:checked + .check-icon + .modal-label-span {
+  background-color: var(--ocean-cl);
+  border: none;
+  fill: var(--cloud-cl);
+}
+
 /*####################--PORTFOLIO--####################### */
 
 .container-portfolio {
